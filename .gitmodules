@@ -2,3 +2,7 @@
 	path = public/wp-content/themes/headless
 	url = https://github.com/cajacko/headless.git
 	branch = develop
+[submodule "public/wp-content/plugins/wordpress-twitter-importer"]
+	path = public/wp-content/plugins/wordpress-twitter-importer
+	url = https://github.com/cajacko/wordpress-twitter-importer.git
+  branch = develop
