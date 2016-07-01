@@ -1,0 +1,43 @@
+{
+    "mysql": {
+        "local": {
+            "database": "wordpress",
+            "username": "root",
+            "password": "",
+            "host": "localhost"
+        },
+        "staging": {
+            "database": "wordpress",
+            "username": "root",
+            "password": "",
+            "host": "localhost"
+        },
+        "live": {
+            "database": "wordpress",
+            "username": "root",
+            "password": "",
+            "host": "localhost"
+        }
+    },
+    "env": "local",
+    "dev": true,
+    "unique": {
+        "auth": {
+            "key": "",
+            "salt": ""
+        },
+        "secureAuth": {
+            "key": "",
+            "salt": ""
+        },
+        "loggedIn": {
+            "key": "",
+            "salt": ""
+        },
+        "nonce": {
+            "key": "",
+            "salt": ""
+        }
+    },
+    "activeTheme": "charliejackson"
+}
