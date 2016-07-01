@@ -1,0 +1,4 @@
+[submodule "public/wp-content/themes/headless"]
+	path = public/wp-content/themes/headless
+	url = https://github.com/cajacko/headless.git
+	branch = develop
