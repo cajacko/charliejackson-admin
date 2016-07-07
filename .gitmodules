@@ -6,3 +6,6 @@
 	path = public/wp-content/plugins/wordpress-twitter-importer
 	url = https://github.com/cajacko/wordpress-twitter-importer.git
 	branch = develop
+[submodule "public/wp-content/plugins/wordpress-github-importer"]
+	path = public/wp-content/plugins/wordpress-github-importer
+	url = https://github.com/cajacko/wordpress-github-importer.git
