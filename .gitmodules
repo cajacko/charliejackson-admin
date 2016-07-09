@@ -9,3 +9,6 @@
 [submodule "public/wp-content/plugins/wordpress-github-importer"]
 	path = public/wp-content/plugins/wordpress-github-importer
 	url = https://github.com/cajacko/wordpress-github-importer.git
+[submodule "public/wp-content/plugins/wordpress-evernote-importer"]
+	path = public/wp-content/plugins/wordpress-evernote-importer
+	url = https://github.com/cajacko/wordpress-evernote-importer.git
